@@ -1,0 +1,32 @@
+/* style.css */
+
+body {
+  font-family: "#FAEBD7", sans-serif;
+  line-height: 1.5;
+  margin: 1 auto;
+}
+
+section {
+
+}
+
+h2,h3,h4 {
+  font-style: italic
+}
+
+#introduction {
+  max-width: 960px;
+
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 20px;
+}
+
+h1, {
+  font-size: 72px;
+  font-color: rgb(255,69,0);
+}
+
+h2, {
+  font-color: rgb(255,99,71);
+}
